@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.pizzana</groupId>
+  <artifactId>JKaffe</artifactId>
+  <version>1.2.3</version>
+  <name>JKaffe</name>
+  <description>Just some random Java utilities</description>
+  <url>https://github.com/PizzAna/JKaffe</url>
+  <licenses>
+    <license>
+      <name>GNU GENERAL PUBLIC LICENSE v2</name>
+      <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>PizzAna</id>
+      <name>PizzAna</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/PizzAna/JKaffe/issues</url>
+  </issueManagement>
+  <scm>
+    <connection>scm:git:git://github.com/PizzAna/JKaffe.git</connection>
+    <developerConnection>scm:git:git@github.com:PizzAna/JKaffe.git</developerConnection>
+    <url>https://github.com/PizzAna/JKaffe</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.4</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
