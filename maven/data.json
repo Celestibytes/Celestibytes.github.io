@@ -1,0 +1,86 @@
+{
+  "celesticore": {
+    "1.7.10" : {
+      "channels": {
+        "stable": {
+         "major": 0,
+         "minor": 0,
+         "patch": 0,
+         "description": ""
+        },
+       "beta": {
+          "major": 0,
+          "minor": 0,
+          "patch": 0,
+          "number": 0,
+          "description": "",
+          "useNext": false
+       },
+       "alpha": {
+          "major": 0,
+          "minor": 0,
+          "patch": 0,
+          "number": 0,
+          "description": "",
+          "useNext": false
+        }
+     }
+   }
+  },
+  "celestialwizardry": {
+    "1.7.10" : {
+      "channels": {
+        "stable": {
+         "major": 0,
+         "minor": 0,
+         "patch": 0,
+         "description": ""
+        },
+       "beta": {
+          "major": 0,
+          "minor": 0,
+          "patch": 0,
+          "number": 0,
+          "description": "",
+          "useNext": false
+       },
+       "alpha": {
+          "major": 0,
+          "minor": 1,
+          "patch": 0,
+          "number": 1,
+          "description": "Test build",
+          "useNext": false
+        }
+     }
+   }
+  },
+  "doughcraft": {
+    "1.7.10" : {
+      "channels": {
+        "stable": {
+         "major": 0,
+         "minor": 0,
+         "patch": 0,
+         "description": ""
+        },
+       "beta": {
+          "major": 0,
+          "minor": 0,
+          "patch": 0,
+          "number": 0,
+          "description": "",
+          "useNext": false
+       },
+       "alpha": {
+          "major": 0,
+          "minor": 1,
+          "patch": 0,
+          "number": 1,
+          "description": "Test build",
+          "useNext": false
+        }
+     }
+   }
+  }
+}
