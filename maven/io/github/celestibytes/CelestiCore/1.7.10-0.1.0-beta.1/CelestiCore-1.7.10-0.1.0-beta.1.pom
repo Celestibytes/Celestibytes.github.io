@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.celestibytes</groupId>
+  <artifactId>CelestiCore</artifactId>
+  <version>1.7.10-0.1.0-beta.1</version>
+  <name>CelestiCore</name>
+  <description>Celestibytes Core</description>
+  <url>https://github.com/Celestibytes/CelestiCore</url>
+  <licenses>
+    <license>
+      <name>GNU GENERAL PUBLIC LICENSE v2</name>
+      <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>PizzAna</id>
+      <name>PizzAna</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>le683</id>
+      <name>Okkapel</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/Celestibytes/CelestiCore/issues</url>
+  </issueManagement>
+  <scm>
+    <connection>scm:git:git://github.com/Celestibytes/CelestiCore.git</connection>
+    <developerConnection>scm:git:git@github.com:Celestibytes/CelestiCore.git</developerConnection>
+    <url>https://github.com/Celestibytes/CelestiCore</url>
+  </scm>
+</project>
