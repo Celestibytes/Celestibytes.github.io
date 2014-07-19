@@ -8,22 +8,14 @@
          "patch": 0,
          "description": ""
         },
-       "beta": {
+       "latest": {
           "major": 0,
           "minor": 0,
           "patch": 0,
+          "postfix": null,
           "number": 0,
           "description": "",
-          "useNext": false
-       },
-       "alpha": {
-          "major": 0,
-          "minor": 0,
-          "patch": 0,
-          "number": 0,
-          "description": "",
-          "useNext": false
-        }
+       }
      }
    }
   },
@@ -36,22 +28,14 @@
          "patch": 0,
          "description": ""
         },
-       "beta": {
+       "latest": {
           "major": 0,
           "minor": 0,
           "patch": 0,
+          "postfix": null,
           "number": 0,
           "description": "",
-          "useNext": false
-       },
-       "alpha": {
-          "major": 0,
-          "minor": 1,
-          "patch": 0,
-          "number": 1,
-          "description": "Test build",
-          "useNext": false
-        }
+       }
      }
    }
   },
@@ -64,22 +48,14 @@
          "patch": 0,
          "description": ""
         },
-       "beta": {
+       "latest": {
           "major": 0,
           "minor": 0,
           "patch": 0,
+          "postfix": null,
           "number": 0,
           "description": "",
-          "useNext": false
-       },
-       "alpha": {
-          "major": 0,
-          "minor": 1,
-          "patch": 0,
-          "number": 1,
-          "description": "Test build",
-          "useNext": false
-        }
+       }
      }
    }
   }
