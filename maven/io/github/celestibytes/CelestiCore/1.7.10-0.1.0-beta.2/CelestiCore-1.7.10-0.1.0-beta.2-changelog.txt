@@ -1,0 +1,22 @@
+Changelog:
+Build 1.7.10-0.1.0-beta.2:
+	PizzAna: version and fix
+
+Build 7:
+	PizzAna: update cg
+	PizzAna: derpfix
+	PizzAna: update jkaffe
+	PizzAna: Version check revisited
+	PizzAna: update cg
+	PizzAna: bump version
+
+Build 5:
+	PizzAna: fix build script
+	PizzAna: bump version
+
+Build 4:
+	PizzAna: Fix errors
+	PizzAna: bump version
+	PizzAna: Fix errors
+	PizzAna: bump version
+
