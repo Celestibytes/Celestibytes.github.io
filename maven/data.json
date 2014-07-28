@@ -1,62 +1,14 @@
 {
-  "celesticore": {
-    "1.7.10" : {
-      "channels": {
-        "stable": {
-         "major": 0,
-         "minor": 0,
-         "patch": 0,
-         "description": ""
-        },
-       "latest": {
-          "major": 0,
-          "minor": 0,
-          "patch": 0,
-          "postfix": null,
-          "number": 0,
-          "description": "",
-       }
-     }
-   }
-  },
-  "celestialwizardry": {
-    "1.7.10" : {
-      "channels": {
-        "stable": {
-         "major": 0,
-         "minor": 0,
-         "patch": 0,
-         "description": ""
-        },
-       "latest": {
-          "major": 0,
-          "minor": 0,
-          "patch": 0,
-          "postfix": null,
-          "number": 0,
-          "description": "",
-       }
-     }
-   }
-  },
-  "doughcraft": {
-    "1.7.10" : {
-      "channels": {
-        "stable": {
-         "major": 0,
-         "minor": 0,
-         "patch": 0,
-         "description": ""
-        },
-       "latest": {
-          "major": 0,
-          "minor": 0,
-          "patch": 0,
-          "postfix": null,
-          "number": 0,
-          "description": "",
-       }
-     }
-   }
-  }
+  "celesticore_1_7_10_stable": "0.0.0",
+  "celesticore_1_7_10_stable_description": "silence",
+  "celesticore_1_7_10_latest": "0.0.0-beta.0",
+  "celesticore_1_7_10_latest_description": "silence",
+  "celestialwizardry_1_7_10_stable": "0.0.0",
+  "celestialwizardry_1_7_10_stable_description": "silence",
+  "celestialwizardry_1_7_10_latest": "0.0.0-beta.0",
+  "celestialwizardry_1_7_10_latest_description": "silence",
+  "doughcraft_1_7_10_stable": "0.0.0",
+  "doughcraft_1_7_10_stable_description": "silence",
+  "doughcraft_1_7_10_latest": "0.0.0-beta.0",
+  "doughcraft_1_7_10_latest_description": "silence"
 }
