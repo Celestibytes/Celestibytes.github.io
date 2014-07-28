@@ -1,14 +1,15 @@
 {
-  "celesticore_1_7_10_stable": "0.0.0",
-  "celesticore_1_7_10_stable_description": "silence",
-  "celesticore_1_7_10_latest": "0.0.0-beta.0",
-  "celesticore_1_7_10_latest_description": "silence",
-  "celestialwizardry_1_7_10_stable": "0.0.0",
-  "celestialwizardry_1_7_10_stable_description": "silence",
-  "celestialwizardry_1_7_10_latest": "0.0.0-beta.0",
-  "celestialwizardry_1_7_10_latest_description": "silence",
-  "doughcraft_1_7_10_stable": "0.0.0",
-  "doughcraft_1_7_10_stable_description": "silence",
-  "doughcraft_1_7_10_latest": "0.0.0-beta.0",
-  "doughcraft_1_7_10_latest_description": "silence"
+  "separator": "|",
+  "celesticore|1_7_10|stable": "0.0.0",
+  "celesticore|1_7_10|stable|description": "silence",
+  "celesticore|1_7_10|latest": "0.0.0-beta.0",
+  "celesticore|1_7_10|latest|description": "silence",
+  "celestialwizardry|1_7_10|stable": "0.0.0",
+  "celestialwizardry|1_7_10|stable|description": "silence",
+  "celestialwizardry|1_7_10|latest": "0.0.0-beta.0",
+  "celestialwizardry|1_7_10|latest|description": "silence",
+  "doughcraft|1_7_10|stable": "0.0.0",
+  "doughcraft|1_7_10|stable|description": "silence",
+  "doughcraft|1_7_10|latest": "0.0.0-beta.0",
+  "doughcraft|1_7_10|latest|description": "silence"
 }
