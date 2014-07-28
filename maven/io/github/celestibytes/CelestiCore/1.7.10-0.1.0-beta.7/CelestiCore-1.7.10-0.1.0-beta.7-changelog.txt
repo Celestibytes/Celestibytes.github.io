@@ -1,0 +1,41 @@
+Changelog:
+Build 1.7.10-0.1.0-beta.7:
+	PizzAna: Fix changelog
+
+Build 12:
+	PizzAna: update cg
+	PizzAna: This should be better than for loop
+	PizzAna: changed some fields to public
+	PizzAna: Description is now a array
+	PizzAna: changed my mind
+	PizzAna: Fix the version parser
+	PizzAna: Move derp exception
+	PizzAna: Update cg
+	PizzAna: Bump version
+	PizzAna: versions
+	PizzAna: done :P
+
+Build 9:
+	PizzAna: :P
+
+Build 8:
+	PizzAna: version and fix
+
+Build 7:
+	PizzAna: update cg
+	PizzAna: derpfix
+	PizzAna: update jkaffe
+	PizzAna: Version check revisited
+	PizzAna: update cg
+	PizzAna: bump version
+
+Build 5:
+	PizzAna: fix build script
+	PizzAna: bump version
+
+Build 4:
+	PizzAna: Fix errors
+	PizzAna: bump version
+	PizzAna: Fix errors
+	PizzAna: bump version
+
